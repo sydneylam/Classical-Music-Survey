@@ -1,0 +1,19 @@
+Name: six9
+Plays instrument: true
+Plays the: electric harmonica
+In School: false
+School's Name: N/A
+Likes Pop: false
+Likes Hip-Hop: true
+Likes Alt/Indie: false
+Likes Rock: false
+Likes Classical: false
+Likes Dance: false
+Seen Symphony: true
+Knows Composer: false
+Composer Guess: N/A
+Knows Song/Composer: false
+Song Composer Guess: N/A
+Interested in Classical Music: false
+Believes Classical Music is Popular: true
+Death of Classical Music: false
